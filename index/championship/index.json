@@ -1,0 +1,12 @@
+{
+  "championships": [
+    {
+      "id": "1",
+      "name": "WES World Endurance Series 2026",
+      "version": "1.0.0",
+      "cars": [],
+      "tracks": [],
+      "apps": []
+    }
+  ]
+}
