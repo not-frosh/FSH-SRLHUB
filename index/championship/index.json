@@ -4,7 +4,100 @@
       "id": "1",
       "name": "WES World Endurance Series 2026",
       "version": "1.0.0",
-      "cars": [],
+      "cars": [
+        {
+          "id": "bcrc_296_gt3",
+          "name": "Ferrari 296 GT3",
+          "url": "https://drive.google.com/file/d/1FBi2nlQ2fafjdfGtKiGZRJC3xwZMtyoE/view?usp=drive_link",
+          "checksums": {
+            "bcrc_296_gt3_lod_d.kn5": "b99954a539ae5adcafc0742fe59252d5519a99354140d804b4df246a28354597",
+            "bcrc_296_gt3.kn5": "22642fa4b3b973839fa5717cc5968622bbc53dca295687074effbdb3325da6c3",
+            "bcrc_296_gt3_lod_b.kn5": "a15200bd1b15bbd3b6a5a42d287cdecadb0dd78843d451b70bc276b86b5aa56e",
+            "extension/ext_config.ini": "6f493008c848163df1ff238f44604ece8b7e70463ad2d6d72c9d16995901be3c",
+            "data.acd": "4963d3cbaa0ea418d195aa4148cb196ebede3cf832d52323866de2bb753c06a5",
+            "bcrc_296_gt3_lod_c.kn5": "86e5b68e913ff3ebd5c4f5641634e68dc87e8addfa710df011d4524d1643d690",
+            "collider.kn5": "084190b2759aebc31669a24faee074cf490b41cbb9d174999bba81739795a473",
+            "extension/lumirank_font.zip": "f4da660fa9d7432d5cbb4a5f6889b24bc2183c169fb88afbb89b989834f01a06"
+          }
+        },
+        {
+          "id": "bcrc_amg_gt3",
+          "name": "Mercedes AMG GT3",
+          "url": "https://drive.google.com/file/d/1BJ4ud5w-QonMKgXF3O0NcGKlVnmNcd9k/view?usp=drive_link",
+          "checksums": {
+            "bcrc_amg_gt3_lod_d.kn5": "398ffa7cdca85debdba350e8d2eaed3192fbe9e7686297d27d1d97a8f42af1cf",
+            "bcrc_amg_gt3.kn5": "07dcf323edec9209e316a316b0b8f16b09fc6c0228bf6e89a5d29be2ecc9b3e9",
+            "extension/carbonpbr.dds": "66582b1ab680f338ad17abbf6cce5bddf1d94f297c6fccaddad75fb054e6f4f6",
+            "extension/new_metal_nm.dds": "720867a6011dfa01c83e5f1660db22e430e5178502c07565e5e51c8b56b11c95",
+            "extension/new_metal.dds": "a6a5be4bb12d9d699eb1a31c462165822bc76bfcad405d66b46165e3ce592dc0",
+            "extension/Banner.kn5": "5438aa4801c2585849eee228aec28dae7d8a8f17824054c192e468b4e745127d",
+            "bcrc_amg_gt3_lod_c.kn5": "0be5c7e7c7099cbda6f38e0a17f4196bf99ffd14a3fcf4415cb68a7d452529da",
+            "extension/carbonpbr_nm.dds": "efc4a32c44fa5f89cab0e73c571f5014bc01e99d1cc97630af48468cccbb4e0d",
+            "extension/carbon.png": "ea8162181501c1be253afdc23c92a782fa346a86b6ed3bc4632245f44a33f294",
+            "extension/Doorplate_L.kn5": "d66b5b3d4938089aa4a84b35ccf5d0f8a75e1fa7775adb0bdfa9088921b02f7e",
+            "data.acd": "29184a9f902f6dce219d1a74489e6df50742506a4738e887fba07e351027d8bc",
+            "extension/carbon_nm.png": "0f8e2d157da8e7d6e7c711825f01b61a7bccffe12f697d0a9ddbea8050a67329",
+            "extension/lumirank_font.zip": "f4da660fa9d7432d5cbb4a5f6889b24bc2183c169fb88afbb89b989834f01a06",
+            "collider.kn5": "163e066a06cd58e5384ded990cfb688d0e198a2e904d65be78aa01b9c186290e",
+            "bcrc_amg_gt3_lod_b.kn5": "34f562de218cf53111848a8dc1c97979de3a929e9eac3e84cd79950539fce09c",
+            "extension/N24_PANEL.kn5": "4a85e2a1fb1b8f53ead5666d7ce5ebd131b48b76c0db68f780272393b140f823",
+            "extension/ext_config.ini": "a21406b57cf88a035bba4525e1fe5bb5a3f088de966930261c5df2fad55b7b87",
+            "extension/Doorplate_R.kn5": "ee4604f84bd6344f6360111a84ad4eb49d7ef26c1dd8dde8d59e3ec95d498a56"
+          }
+        },
+        {
+          "id": "bcrc_c8r_gt3",
+          "name": "Corvette C8.R GT3",
+          "url": "https://drive.google.com/file/d/1V-Vatn2r4Bv8Ir4kk11a53rqnYSihIlA/view?usp=drive_link",
+          "checksums": {
+            "extension/ext_config.ini": "d6644c4cffe80d5928fae6d15e7313322f7fa192307065656fd9a786b600ed8e",
+            "bcrc_c8r_gt3_lod_d.kn5": "5ce6cc93d92160f658880bc60c8a3623c224966c9d1cb92a6fbca97a51da07b0",
+            "collider.kn5": "b573f1dd74d9f1d37cce20ece63ca8cd0eb1a1ef74bb23c08cb3dfc48195c948",
+            "bcrc_c8r_gt3_lod_b.kn5": "a154ab55ad8c4825ba1f128947a74fd62988d91f1c5d2917896ca5e9e523c427",
+            "bcrc_c8r_gt3.kn5": "b856dd87d69ad7bf76532773f48134bf262ea4ae7c35e942ad5820192642b508",
+            "bcrc_c8r_gt3_lod_c.kn5": "ea469106847929c95804d58f03e9a0ee6c474c9cbe6a8d9ad765c89726e51f73",
+            "data.acd": "e89b4b00e818fdef4cd9669f365c0966361237d422065f40f59af88b0cc33e2a"
+          }
+        },
+        {
+          "id": "bcrc_mustang_gt3",
+          "name": "Ford Mustang GT3",
+          "url": "https://drive.google.com/file/d/1uaZpHWy3O_zmdeTKWrEVxmBlu5qITJDn/view?usp=drive_link",
+          "checksums": {
+            "bcrc_mustang_gt3.kn5": "baa1a5a4dde4a7646bf5f50969486c5f4c340c15ac1d80b5bf8be51f715f5d42",
+            "data.acd": "ea94213e5e48d9f67c868df5da50c57135f8dfbf80535e55a40388eb467fcfc9",
+            "bcrc_mustang_gt3_lod_d.kn5": "dea72322c7b1f386cf435be2cd30c8256f2fae8e5b64684e968cd8d3b673c507",
+            "extension/ext_config.ini": "1ca6cda53bc3dd9dcc2cc4cc288dbb1ee59420ef7fd39c43e057b4aa55723b93",
+            "bcrc_mustang_gt3_lod_b.kn5": "b9dc7636865818a73a6c3c0ab1eb4474a5a3eda1b6f138d4186f0647a7082648",
+            "bcrc_mustang_gt3_lod_c.kn5": "201db2e35708ab6c356673e3b387217101ed268ebc73868b4a46f24eef4afcf6",
+            "collider.kn5": "e6baed76111c0b57a672163ac3bf2ede358dba230f366e40418b105137b67bb5"
+          }
+        },
+        {
+          "id": "bcrc_porsche_gt3",
+          "name": "Porsche 911 GT3",
+          "url": "https://drive.google.com/file/d/17D35kMEvsUaA0WkCK0c_Rohl5mKpaK0s/view?usp=drive_link",
+          "checksums": {
+            "data.acd": "c3e21c6d7601047100166e45081243ac68b7a46576ace0c065bb54edbf81e056",
+            "extension/Bathurst Banner/EXT_Banner_Colour.psd": "36e3a4680e559073860fa5c21faf2513d15c2cdef09447f927bdd982c3aa94c4",
+            "extension/lumirank_font.zip": "f4da660fa9d7432d5cbb4a5f6889b24bc2183c169fb88afbb89b989834f01a06",
+            "extension/Bathurst Banner/Textdokument (neu).txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "extension/metal_detail_rim.dds": "54cd6f47e2c6a200a6685f41e60dc47f00cb26e1038c0334f3335ee80abc909f",
+            "bcrc_porsche_gt3.kn5": "eec65d66fb341b9784e4d3ee999a330093d61be2553133d33722dfa146a29e04",
+            "extension/Bathurst Banner/EXT_Banner_Colour.dds": "876800688cbba8318b8072462a833f2e0a73ff1c2ac610d0030dfcc769c279e7",
+            "extension/N24 Banner/ext_config.ini": "c8481009835ee344f92fe496bbe8af5b818119a7603f649c6206d97c334f6857",
+            "bcrc_porsche_gt3_lod_c.kn5": "3294e8b6960d337e36452576d4c4ba4d9dc087cbd6257b6b2eb26b44393bd125",
+            "extension/ext_config.ini": "4084bd3cbd5ce5c776bcd0c7ea8caa70fd2da1620ae37a74e527e5636412e28e",
+            "bcrc_porsche_gt3_lod_d.kn5": "96cab536c35d1b09bb1704086fdde3727a285544b30e291a685d407a48e013a7",
+            "extension/Bathurst Banner/ext_config.ini": "41f0d8f3b4ddc49051de282a961e247a9cb6d94ac9fec13f28c27ef7595591c8",
+            "extension/N24 Banner/n24 banner.psd": "d1e65b915e913bec98e78f4d53049849ee7cacc2b18a354648174b6979cc2306",
+            "extension/yellow_metaldetail.dds": "5ca9347814d0349a3e958bc22e2d684488eac7095fb51429ef343c0e49af391b",
+            "extension/N24 Banner/EXT_Banner_Colour.dds": "31890f3c38ff3e3019cce4f126e31af2e0dfccfaa85e3726721c3e4fd017bc5f",
+            "bcrc_porsche_gt3_lod_b.kn5": "5325f29d02971aecabf4c0c63fe49b3e68e10235f00c0f4bbd52f5c487901222",
+            "collider.kn5": "d75ccd9e16d4d3c0145aa3b1ddece2826f903da6752240d4634653e6f496dc6c"
+          }
+        }
+      ],
       "tracks": [],
       "apps": []
     }
