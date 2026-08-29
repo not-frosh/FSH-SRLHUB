@@ -96,6 +96,22 @@
             "bcrc_porsche_gt3_lod_b.kn5": "5325f29d02971aecabf4c0c63fe49b3e68e10235f00c0f4bbd52f5c487901222",
             "collider.kn5": "d75ccd9e16d4d3c0145aa3b1ddece2826f903da6752240d4634653e6f496dc6c"
           }
+        },
+        {
+          "id": "porsche_963",
+          "name": "Porsche 963 HY",
+          "url": "https://drive.google.com/file/d/1EOI_BpohQZBU9_gfJpgB5-SU9Z_8t7VW/view?usp=sharing",
+          "checksums": {
+            "srl_963_porsche_lod_b.kn5": "e48807bfb127a486753cd8acdc9973e73d9bc44622a26e85fe4dd88384a036ec",
+            "trr_porsche_963_lmdh_lod_c.kn5": "81cb14efa230aa5b163852cb7768d5f2c416773d3701294e72a5385ac9e75e54",
+            "collider.kn5": "82de51ae1278e0fb28c3234c9fc59b3fa0a553d146a84906363364e2ef9d62f6",
+            "data.acd": "0825b126a81ea85f6a3a3ff5ca6111a167d6c1d145fc3611144d377ea0f6d250",
+            "srl_963_porsche.kn5": "b1f436d37075b8451af246fc404ae4da7003ce2374c588bd135343f9ae792809",
+            "srl_963_porsche_lod_c.kn5": "9f7ec1d8d3861b7609343d7c10ea8f64f1db52b5584e428aa4ab3e28fc4f6837",
+            "srl_963_porsche_lod_d.kn5": "85db87de568dd061cd1ddcb31937282508e4d9c1ac0fc3adfa02af39c7d371c2",
+            "trr_porsche_963_lmdh.kn5": "828b84723b8873829e81595f89bf56453e7c7adb55c7530db080bd157cb5c279",
+            "trr_porsche_963_lmdh_lod_b.kn5": "4996944e485dd185f437dc9e174bf779293f066b1924c13c0db9ec7312809c44"
+          }
         }
       ],
       "tracks": [],
