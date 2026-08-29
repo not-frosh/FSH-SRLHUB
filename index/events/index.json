@@ -1,0 +1,14 @@
+{
+  "championships": [
+    {
+      "id": "1",
+      "name": "WES 6h Le Mans",
+      "version": "1.0.0",
+      "is_active": true,
+      "cars": [],
+      "tracks": [],
+      "apps": [],
+      "skinpacks": []
+    }
+  ]
+}
