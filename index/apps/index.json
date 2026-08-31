@@ -107,6 +107,32 @@
         "icon.png": "c887cbc1e3585ee795608d1f390e27e27148db4961e0c0f8a8fb256bb72d1ebd",
         "src/sounds/spanish/RadioCheck.mp3": "1d638a0635bbda452a76d28481a28cfa121f27a5512d6f9cde3dd59da9fcd6ef"
       }
+    },
+    {
+      "id": "RealPenalty",
+      "name": "Real Penalty",
+      "version": "1.0.0",
+      "url": "https://drive.google.com/file/d/1Y4Qf6-rzndcVKjtX7teVvHlWyDUB4FTh/view?usp=sharing",
+      "checksums": {
+        "utilities/Lib/idna.pyd": "27da908079d12a711332b5b1448151adaecf69af28966c669c2003da93c960a5",
+        "utilities/Lib64/idna.pyd": "79e92397bf887003479da26f01cc560eed2f322ce0163bf6cece15cf1fed8685",
+        "utilities/Lib64/ac_sim_info.pyd": "4d7d9c9ff8e820b535baf0a1e083abec78eb77bb3b3262d174369ec2360fb813",
+        "utilities/Lib/_socket.pyd": "bffc527b8b6d850c081ca8c1282e1fee1361c0f993da2eb21d99f35c5fbe4fb8",
+        "utilities/Lib/offline.pyd": "2a7aca1e8fc67771467fada0dd0fd6d5ca03bd96cec3143d5174179ec41bb8f2",
+        "utilities/Lib/ac_sim_info.pyd": "c154cfcfa0933d99b19886c6c5c1925d2cfe44decc1ac7f7d9a8b2916a9bed40",
+        "utilities/Lib/winsound.pyd": "95270f83cc137103e387173f37c67c8f4d52f1a5c229784a63148df88322a386",
+        "utilities/Lib/wrapper.pyd": "bf3abc74346ac7668f6798fc27519e715f35cca8437e3460671994354766927c",
+        "utilities/Lib/_ctypes.pyd": "f11597b472fa10bb7c3b85a99dd7870f063963a55740fa01d07f875b49efd328",
+        "settings/default-connection_settings.ini": "4e331ba0f5b15a0acc3d5b3f8ce7ffe2d40a90841809f1fdb023a271fb7a23c7",
+        "utilities/Lib64/offline.pyd": "e4ed3393747d834924fbfe83515362d38c47a39c517255376d4ac842186687c0",
+        "utilities/Lib64/winsound.pyd": "da25a37c1668d3d858598fe6162e8a03e8908fa48a138bf1545012f7066a7ec8",
+        "utilities/Lib64/wrapper.pyd": "1fa779ca047b0d02e8dd1d9786d9cab9526ece8520d06ebe529976916b899a32",
+        "utilities/Lib64/unicodedata.pyd": "b2593a518910e9efebeaefd339aabc43b965863ffa41922ded08ae7a7f93741f",
+        "utilities/Lib/unicodedata.pyd": "f2328c79a1f8e0169905d40effc0ac996639de52d9f3450a52101449311baf90",
+        "utilities/Lib64/_ctypes.pyd": "a5c393c03d48430e74768de97e0b1598fa087f624fb5b142a567a3e54e2ed853",
+        "utilities/Lib64/_socket.pyd": "617fae63ae0987c40a3bd2112edbd61a696486b631e39262993467e6fc4d8287",
+        "RealPenalty.py": "3f3189194fa34c358038d2f83b10dce3e53dbb54ccb68d56309c047c7af68b95"
+      }
     }
   ]
 }
