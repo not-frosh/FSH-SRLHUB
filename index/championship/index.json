@@ -138,6 +138,309 @@
         }
       ],
       "is_active": true
+    },
+    {
+      "id": "2",
+      "name": "GT4 Temporada Nordica",
+      "version": "1.0.0",
+      "is_active": true,
+      "cars": [
+        {
+          "id": "gt4_alpine_a110",
+          "name": "Alpine A110 GT4",
+          "url": "https://drive.google.com/file/d/1oFfTA8uHvMOBNw8fIj-uXlUJ_0rjUxnX/view?usp=sharing",
+          "checksums": {
+            "alpine_a110_gt4_lod_b.kn5": "e1d0fee24a111a82b78fa61590319e70aee42cffa999dc6ef2284aba4b4dd9bf",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "alpine_a110_gt4.kn5": "d83bc0ec34053a3fc82d7a732edc84d36d46acee53a095a8523ff73d2476b111",
+            "alpine_a110_gt4_lod_d.kn5": "1ef7196c3c664b8f55d86661a2c9166fe728cd4aea2d3ee085efa58ffc8f9872",
+            "collider.kn5": "c2c1bf5efeb5a7fac0241576ff22faf800b92ef9f43d071164b7eee0e90d018d",
+            "extension/ext_config.ini": "ae1cdecce53aed7909485d2ce1820cfaf44e49d7669137d498226a34833a9598",
+            "extension/EXT_Lights_emissive.dds": "54f6fad8544b0df4e333c5dda923629a559e991eb502aaccab05664f0f9aafd4",
+            "alpine_a110_gt4_lod_c.kn5": "d52b32222d7196adb85d197fe95f4b678854d74f63b1d5b3fa50536399617734",
+            "extension/EXT_Lights_Mask.dds": "69edc46ce8d88f6b7c4c3c7e0ff503b951102b3601cac2117e64ca047179a3cd",
+            "data.acd": "d8db242f22c0427df35936f86d25f66f65ccfc40ad43fc3a16344c043138ce55",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2"
+          }
+        },
+        {
+          "id": "gt4_aston_martin_vantage",
+          "name": "Aston Martin Vantage GT4",
+          "url": "https://drive.google.com/file/d/1MhStbR7xOwmHYGP9HuwfIfUgyJXTvJI-/view?usp=sharing",
+          "checksums": {
+            "data.acd": "e45eece409118bb03102d298ff4ad078a1d56a3a00d48dfdb4b10241497fddf9",
+            "vantage_gt4_lod_c.kn5": "a0ad242e5d32cd063a6631beb2600b5831601418f8e47abc56e0fcba27347f11",
+            "vantage_gt4_lod_b.kn5": "6d6469a0bb346196253c93cf0b14f52b3b105b3942ad37e4a0cf27a84a62348a",
+            "extension/ext_config.ini": "3bdc32198e0ce2ce6931074c5b1c8d21572b733c8744feb1fe49f208f78472b8",
+            "vantage_gt4_lod_d.kn5": "278309ac740cc4cde483d3d042a645bafec1b4a37783e006e116621e70cd72e5",
+            "extension/used_exhaust.dds": "abc0f4bd45ba02b497181bb367d0f3978f82c5f1224b5ccf36703c9ef36436b7",
+            "vantage_gt4.kn5": "b93645a5938a8b0f3627aff7e806b16a8b5171885c18997d84ce59ea24b8c46a",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "collider.kn5": "689445eb39e427205d149a71b881fa03572b97c637436d41aef00549707855f4",
+            "extension/used_exhaust_nm.dds": "55db5a8ef5dfa7eb2407da2bfb610b5f55380df032156a385389dfe6beba7e78"
+          }
+        },
+        {
+          "id": "gt4_audi_r8",
+          "name": "Audi R8 GT4",
+          "url": "https://drive.google.com/file/d/1jPJmNAbooH9qlW126hgFywqBD_kfXRW4/view?usp=sharing",
+          "checksums": {
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/gold_color.dds": "fce4e9f5557988983e6030609ef5e70d25d313f7b41312281ad1236b3306921a",
+            "extension/ext_config.ini": "0a94c61778ed13f9cfe374735335782c5ec0f9a1644f33b8985cc4ed5b7d33e5",
+            "r8_gt4_lod_c.kn5": "9fe0e91686bc37dca4f137c414b4c2f24ac4e659ca40ef5bd99d1a9b3341e265",
+            "r8_gt4_lod_d.kn5": "edca7149b10a0e5fcaa95c07c9015c4f5151e63375be48f5396e19c82d71acbb",
+            "collider.kn5": "f54ffcb6b35938f68b45be4086888243411fb86294cb02c586bef1d8695c66a4",
+            "data.acd": "02f749ac5ff719188fd8c949f576504e5e8c93c929bab155d48457e330122011",
+            "r8_gt4_lod_b.kn5": "5edaf785fbfe1d9cc0b6a17fa0bb2831a79bb709ce85eb2bd8a75b52a30d7497",
+            "r8_gt4.kn5": "36e8411889ca8ac01f3c4674ac0911de9c2cea959fee3a3e6708ba3647bcdd37",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2"
+          }
+        },
+        {
+          "id": "gt4_bmw_m4_g82",
+          "name": "BMW M4 g82 GT4",
+          "url": "https://drive.google.com/file/d/1cr-sjgYKx-vDUTbAlhar00qUtROjbMAM/view?usp=sharing",
+          "checksums": {
+            "bmw_m4_g82_lod_c.kn5": "945c0155ec961f4bd67e434719007cff603b9ef9f5640fd0666569b7dd120ca7",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "bmw_m4_g82.kn5": "6434217b0a43b246e0ac63aeaa5c21d07285713b83dae31e4bd81e44613aeb04",
+            "bmw_m4_g82_lod_d.kn5": "5553b8481513315399d405bbf5152e213cf37fa3ba7380dd3e5639b51d803ff6",
+            "extension/ext_config.ini": "64e09cf8e4ff10865dda8eef1e54f0bd3760f800828b2f2ba4b9d2b2892355d0",
+            "extension/carbon.dds": "656358b69fd533b819c062d2f2540cdd5c2b81aa565822a20217844278f02824",
+            "extension/Light_E.dds": "42dcb86da9fe0ac65fd6c6aa3e1845002a836708bbcf799cd396db784014fc07",
+            "bmw_m4_g82_lod_b.kn5": "8109241a5d88a975368a7b9895ed8a1f90ff736d8dbb927325e203f1e62b4e4b",
+            "extension/carbon_nm.dds": "e62f9414a3b46a25124bb80049cc78fb7a8b955982c8167f47e1aaa0883dbcc2",
+            "data.acd": "331785510b50c62926f5ec530404986663a7204154d280cc59cce9079c17d35a",
+            "collider.kn5": "b4c93170f03911103c86c5aca98771c56b0d6005863d74cdf41d3bd58c3cca3c",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c"
+          }
+        },
+        {
+          "id": "gt4_bmw_m4",
+          "name": "BMW M4 GT4",
+          "url": "https://drive.google.com/file/d/12u2sX4WhF04EYywD7fheR7rowryGEVpw/view?usp=sharing",
+          "checksums": {
+            "bmw_m4.kn5": "3bce1fe745e45f5fbb96b5c84283310358908ebc41b4ea4ff6e8ff10fd30b8d9",
+            "bmw_m4_lod_d.kn5": "8ef2e213f6fd39f30712aad7b8a5413d0e9d473ef2d4dd797204bf58b2ad0edb",
+            "data.acd": "058a9a4c4ef11fefffe1820123d8d6fdc9fb21d243ba8e3be2303eb2909c9598",
+            "collider.kn5": "b4c93170f03911103c86c5aca98771c56b0d6005863d74cdf41d3bd58c3cca3c",
+            "bmw_m4_lod_b.kn5": "23b164aecc2930b3d3cb3688863f6c2594db5c8ec3136f1efb498f7a59f30194",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/lights_e.dds": "06ba4bd974fa27149317e6834dbb7a0aa9e8d7d4ac366a2bfc742c41b9088f35",
+            "bmw_m4_lod_c.kn5": "ab0b914954aa143a5591881ed548f0eaf7b9937545746c6f7f14817029858d51",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "extension/ext_config.ini": "0ad5182460fe204e86dfccb971aabbde1198a1c538f3d5a72397b440bf3ee29d"
+          }
+        },
+        {
+          "id": "gt4_camaro",
+          "name": "Camaro GT4",
+          "url": "https://drive.google.com/file/d/19g_3PYhW85OZ5qqtHMxf_Qh0tivHIGny/view?usp=sharing",
+          "checksums": {
+            "extension/ext_config.ini": "21c887394ca52a33cbb9b9c8903bb8981c856f15e61723acc5cc5baa169475fa",
+            "collider.kn5": "c4c20c004d09db6c1e0ae8a01cb3d597309a6d94b872fa453e79943f3be41152",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "data.acd": "b8bb6ce613005100347142c8c572bef1a9699383d5ebc8e5ec9532dfd5307c73",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "camaro_gt4_lod_c.kn5": "32fa2ecdf857b6dcbf1a074916303855122b21f82f2421c6f8a2ddf95f9be2f1",
+            "camaro_gt4_lod_b.kn5": "9ad175c34e46a70374a0e2c0c724c44acf66c50279df59256d91f2674ffa8b14",
+            "camaro_gt4.kn5": "bcd4e7ef3fb0c52d92ad2c636abee3b3b16bd3e4c783f5734dbf02800bcdd5cb",
+            "camaro_gt4_lod_d.kn5": "9dd7e415dae0747559433e92f6f669203963a06f8adc46bd7b5b8b556b48b556"
+          }
+        },
+        {
+          "id": "gt4_ford_mustang",
+          "name": "Ford Mustang GT4",
+          "url": "https://drive.google.com/file/d/1m7L4XqhJFVeUxMbOqydXMb7dDKRWRRHy/view?usp=sharing",
+          "checksums": {
+            "data.acd": "1c2a1fbda7d150748d1231ac56391e1e0735c99a763944348eee56e70a337eb8",
+            "ford_mustang_gt4_lod_d.kn5": "1c95f8f08388fc36ef5de16ad173d2f9b414265eec18412d1faac2f18a10580e",
+            "collider.kn5": "e6baed76111c0b57a672163ac3bf2ede358dba230f366e40418b105137b67bb5",
+            "ford_mustang_gt4_lod_c.kn5": "f72b325a007ad07beaffd4d1d3a093f3a432dd4ab5bb147729587004abc42bf0",
+            "extension/ext_config.ini": "a71757b6a52533b5110e428d4d910a037d43a6ed6dd82973addf61d45cfea616",
+            "ford_mustang_gt4.kn5": "151ebad4350dafcb5b5d10c2309ae326e0d8a85ec46e625d53628a758a935b82",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "ford_mustang_gt4_lod_b.kn5": "94b4f23e21c6ee7b4200ae3fabf530f2b244292de220ccff7e8f323ca466da85",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2"
+          }
+        },
+        {
+          "id": "gt4_ginetta_g55",
+          "name": "Ginetta G55 GT4",
+          "url": "https://drive.google.com/file/d/1VWRiPBcEya92e196J70PEFA1Yi7bCyWu/view?usp=sharing",
+          "checksums": {
+            "ginetta_g55_gt4_lod_d.kn5": "ddc66a27730aba480da5ab659876d7fb3f4d13ed48997000e87eba6e6a555c74",
+            "ginetta_g55_gt4_lod_c.kn5": "58780e6e121427937a395f59bf01de45ed443b7f15d703dffd5bf1e1a848e68f",
+            "data.acd": "b6415395f272720aaef14812ed91afe2d8039f607368fc172c619fbc9c0d0b09",
+            "extension/ext_config.ini": "cc4849d69ed60ac6caf2d28cf4742af7e42be022090413a536fe5cb3e462bb68",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "ginetta_g55_gt4_lod_b.kn5": "46313bb0b2fa0e2f6d2c2b29761bdf8ae46daac3bb29765bcfd0bc0a48420d25",
+            "ginetta_g55_gt4.kn5": "f584ad4862f813a79e0d400060428217a744316def0c88ca4e2c5df62650af0e",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "collider.kn5": "eb1982ea12290832082a5ad8286f050c11cbc3a35aa645e2ae3587d2241d7b29"
+          }
+        },
+        {
+          "id": "gt4_ktm_xbow",
+          "name": "KTM xBow GT4",
+          "url": "https://drive.google.com/file/d/1K9VNgC3nUqD9qASi2DdH-z-ZqzbuFwzr/view?usp=sharing",
+          "checksums": {
+            "ktm_gt4.kn5": "e07efcf90d0ead497c02c938712a002ab415e8066af3e3c0a52c69c56f4b66c8",
+            "ktm_gt4_lod_c.kn5": "e569aea74cdf4c66143e52943944b6ae167aa41650fcc963ab2c0912c99eddf0",
+            "data.acd": "9b9e6e292de5daac1b10241343422550a753833c9529e1a184588640c5f9bd4c",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "collider.kn5": "598754ad380406f4b26d4b84f8b9d1a677d73e044cbef5647b907243b892660b",
+            "ktm_gt4_lod_b.kn5": "709b63234cb21989aab4587c77ea863f2203a3d885f4f5015f5bd806ba5287b9",
+            "ktm_gt4_lod_d.kn5": "cac7f82d340dd42f63c2943f89119bafac9c076878040c5a9f7391e9cd84abdb",
+            "extension/ext_config.ini": "b043014be948da6a5f56ad5a0e8ff2c092fc49ea87e783d8a07d94e45e9910cb",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2"
+          }
+        },
+        {
+          "id": "gt4_mclaren_570s",
+          "name": "Mclaren 570s GT4",
+          "url": "https://drive.google.com/file/d/192YLEffTiuMkhrEIDyaVxJ7OjH0cCvJg/view?usp=sharing",
+          "checksums": {
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "mclaren_570s_gt4.kn5": "7031b54321cdf2c47dd23b7791c08f80dbc06c2722ea21ac8d583977b1cf0e29",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "mclaren_570s_gt4_lod_b.kn5": "fb10f6dab1ab736c2f35675c27e43aef801002ec76bc53e82f1f1995c5fa7abb",
+            "extension/delta.lua": "af77baa94916ce0d788a50b61491206705c0daa0ae0408164ddb29a09b46ca39",
+            "data.acd": "b90991c277b39005e283ab7f964bd1d6f2b04d0f85502c7699a6ef1a7a2e0e92",
+            "mclaren_570s_gt4_lod_c.kn5": "5c02725ac4165de420a04c21e13f544fe192ef38e816d89e6a56aa4c5614fa9e",
+            "collider.kn5": "18698dc2180c4a093330b10b920bb5e49be13bd7be0e3691d73b7597c1319687",
+            "mclaren_570s_gt4_lod_d.kn5": "fd3bae6d64575b39885eff5dd809e81375079b9557e35186a926c51e7f53a22a",
+            "extension/ext_config.ini": "98faeb96bcaa55038b4109a33108c0a0fd3b1b1492100a680a2860f66bd86372"
+          }
+        },
+        {
+          "id": "gt4_mercedes_amg_evo",
+          "name": "Mercedes AMG EVO GT4",
+          "url": "https://drive.google.com/file/d/1oKOKdFl3TG463iRx0yfPw6MGLXPpotx4/view?usp=sharing",
+          "checksums": {
+            "data.acd": "a9e5fb7e5bf902d5f8836ad311e55c993f3eadd78158098fda244b1fd569f309",
+            "amg_gt4_evo.kn5": "1aa7ace92d93968692cb260e4319f9afae8020e792ce65a47b7a75a278b8cd1f",
+            "amg_gt4_evo_lod_c.kn5": "71db8a1d180d817b94ff92fad9eca0245bd3d4748a9902dbf342641f01548622",
+            "amg_gt4_evo_lod_d.kn5": "9012d75b1fd9d9a69ae43074a6ebe8a1d2302390efeedd21d5441d9aa37e4683",
+            "collider.kn5": "11c91bbf0fff7917d990afe981971c292c7ea8692373b548d9020d0fb7e1cac6",
+            "amg_gt4_evo_lod_b.kn5": "39e91c74db1fa82f10f530e17d4ce5dd1c7d48ce3a9a6b2eb046a66ff2ba9436",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/ext_config.ini": "31d327468f3aaa5e9e5e4ff9b2ff1f2add7c1cfb6c370aaf3b50e503d71e1a56",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2"
+          }
+        },
+        {
+          "id": "gt4_mercedes_amg",
+          "name": "Mercedes AMG GT4",
+          "url": "https://drive.google.com/file/d/1t1GhQUVNxr2yxmDLpOaDTaBwXHsV7pvg/view?usp=sharing",
+          "checksums": {
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "collider.kn5": "11c91bbf0fff7917d990afe981971c292c7ea8692373b548d9020d0fb7e1cac6",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "amg_gt4.kn5": "37dfee513fe359f0585e09609a2f1b54705487fd213b962229cfe84db47a4b5f",
+            "amg_gt4_lod_c.kn5": "f81de5186c7947cec7e251103f61574af7ea199c61f8a72e4bcb47737fc2f744",
+            "amg_gt4_lod_d.kn5": "25e4460c91ccecb6d51aee7eaaf466adf291dc341e3d7357f28f9ce76c0c2223",
+            "extension/ext_config.ini": "c77a08e240afb5fa63c0d509560de917b6ce502af33ef075ba7af879f1570d87",
+            "amg_gt4_lod_b.kn5": "fe9cb69f79ccf333127e8aa3cd5a38fe950e26475d88e7b2f1e54a29eaebadd4",
+            "data.acd": "ac399d1011de9b911a33b24a5718f173222be6048ee438d48b3576c9225fa495"
+          }
+        },
+        {
+          "id": "gt4_panoz_avezzano",
+          "name": "Panoz Avezzano GT4",
+          "url": "https://drive.google.com/file/d/117aT8fV6Fq7s7ZudhXQ0ZuPmpt94DPTK/view?usp=sharing",
+          "checksums": {
+            "collider.kn5": "cdfc4e0415ea20001383ec7c0d6b3fab410f0b91bdce1c1f883940f0a71f2027",
+            "extension/ext_config.ini": "6fd71ad4086e7380f3c46326e7c7b3a808c4951cdc0b4c82a91fc7cc51227b0a",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/ext_config - max.ini": "6b57180b82b61fdec53291b35354dd2b4c86a34c760cb00de370af985e40e84c",
+            "data.acd": "f2618e67505a88f26e8bb049b8511365c0f123b75c4909d67f0c8d743ad15a14",
+            "gt4_panoz.kn5": "0817bf6ae79171cc45c987d19f271da047cf9eca0c726c65ad8130db245719ce",
+            "gt4_panoz_lod_d.kn5": "a3ff2ba92cde12072082400e50aaaa99a39877be461a9e8ad926d47cb1909953",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "gt4_panoz_lod_b.kn5": "dcd63b136cdc39b6848928cece580ed17cc42785e3e0d47b908cc0c618cf7ac4",
+            "gt4_panoz_lod_c.kn5": "74438639528b05205624fd8b34d28741505c7dd5b13d3fbc094c0b71da1f7ca1"
+          }
+        },
+        {
+          "id": "gt4_porsche_cayman_718",
+          "name": "Porsche Cayman 718 GT4",
+          "url": "https://drive.google.com/file/d/1LwnD8zHQL8v_OzhhVwtc2rKXquo-e-Em/view?usp=sharing",
+          "checksums": {
+            "porsche_cayman_gt4_718.kn5": "8a336116e64b71b32ff65dbbf3453d0538ff28b92a48b61f1910ff5076d62b2c",
+            "porsche_cayman_gt4_718_lod_b.kn5": "096639d3387c17fa18f14ed9599a51533add73d537b2aec734d8d1f7d5aeae72",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "porsche_cayman_gt4_718_lod_d.kn5": "48f73806d945ebaf28b7761cb5f6b1febb5d687c2609ecb744edaed68e61835e",
+            "data.acd": "2bb1e13881fec2ea20a3e54c16e5acadfe533707a11044f7f012cf60b3c1ddd9",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "porsche_cayman_gt4_718_lod_c.kn5": "68a91ef8f0c6ee1d38e6cf060cc8e80375f2048602b28048fce9817c0e2526ed",
+            "extension/ext_config.ini": "2e5d645c27c3fa0cf4748667c97d7b09de9a0b7382c6ae60f485c8b350806c46",
+            "collider.kn5": "85ffb50d4e9776e565a53da03f698159984b5d29c977aeceb5ac3646b08f8b19"
+          }
+        },
+        {
+          "id": "gt4_saleen_s1",
+          "name": "Saleen S1 GT4",
+          "url": "https://drive.google.com/file/d/1qtSpird7RuezSCwQ6pMPsZkN8NW4NUgl/view?usp=sharing",
+          "checksums": {
+            "extension/ext_config.ini": "75d50bd224981bc675f2a734778080cfd3b453c280d56e732ddf05812cca737d",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "saleen_gt4_lod_b.kn5": "4ec2343f534a18eaa3c5b42a6b8bf5c56d7988b31c1dddfcb6d999e75dd33b98",
+            "saleen_gt4.kn5": "6c98c3b6209e961b174de7ed2553982b1360f0c548cec06de42885abf16afef3",
+            "data.acd": "816d714a4a5588de3a1c228923eb880c38032b2ef971a9aad50d0995fcf2a56c",
+            "collider.kn5": "7e17237b877fac8c19471f2470d44228910aabf5a53e401e77b87741e94e7d48",
+            "saleen_gt4_lod_d.kn5": "4a350b32814e453a286a0c05512834693245d0a5f94890524f853856e477b558",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "saleen_gt4_lod_c.kn5": "10c3265ede1c896da42ebf58f555d808dc38d38c59a06070dfdf5f5790a61711"
+          }
+        },
+        {
+          "id": "gt4_sin_r1",
+          "name": "Sin R1 GT4",
+          "url": "https://drive.google.com/file/d/1Yql6LCwqj-M9PxKlw5g3BBNT4KvITt8Q/view?usp=sharing",
+          "checksums": {
+            "sin_r1_gt4_lod_b.kn5": "dc2653380d48e4d136d1bb2cf837061a559acf045e41590932b9fb42506b71e4",
+            "sin_r1_gt4_lod_c.kn5": "0ceb9a63cc549e58a64476ce89f66b3d687db368d297d11f616c9db98297a9c8",
+            "extension/front_light_glass_emissive.dds": "4c5bd7e4dec41306c1a21d34cd6fc9f3d8d131f3300823ec0919ec7ea75c1d8c",
+            "sin_r1_gt4_lod_d.kn5": "710bb4e97296a40c958de4f2d421d0fa83e8fc410115bf2a2203c4773af1830b",
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "sin_r1_gt4.kn5": "80688c821206c641c77572f7ec971f1bce649f67f9c7cc0e7aa3d1d7b601e6ba",
+            "collider.kn5": "67b7e2a92861032e05556bf03e55d15393318685489c2f8438e6151e8339cb1b",
+            "extension/ext_config.ini": "f0e903068503f5358c07448493a081ce4471bbcc9c66841f878ba8454bc842ee",
+            "data.acd": "2c69f93826eb9014f7f6298ae1c9a3d71d2bd789880d07d541d21843a9889af7"
+          }
+        },
+        {
+          "id": "gt4_toyota_supra",
+          "name": "Toyota Supra GT4",
+          "url": "https://drive.google.com/file/d/1ZXciwAZdI4LmgSects_gCEpsbd1O99W8/view?usp=sharing",
+          "checksums": {
+            "extension/front_light_yellow.dds": "329532c83e324a5a3f2027fa45f5d563423dbfc6a7237f18c72db06d3fe64d1c",
+            "supra_gt4.kn5": "2c7ee30a8264f7da56352eed335d9ffad362d3aa761d9041981d656cf140d5cb",
+            "extension/lumirank_font.zip": "72d9d5f064805ba024f8fccf9b6d9e3abdc466bb29cf372ffe9cb7c3b00f71c2",
+            "extension/ext_config.ini": "12978ca755c3458d214dcfadf83c0868240f59604ee0f7d4b848052ad91ac01d",
+            "supra_gt4_lod_b.kn5": "413f940665168d8b60df72f83be4cd399af7f569ff49dc1a4a0886af1df6b654",
+            "extension/lights_emissive.dds": "5f7526a8097a4f77d0c404a85e91bcd3a1a74cd12c42b28d7673719d4c5d5314",
+            "supra_gt4_lod_d.kn5": "a19c7d6f6d7d76f4ee77a327d5cf9cee4b7b123c076a9a56f3591ee60e786e13",
+            "collider.kn5": "78fb86f3b44705e802994f6c620cbf8669ca88cbb4aaa98611a2a0df879694a1",
+            "supra_gt4_lod_c.kn5": "c9c2fa57b8b0e0a617bc09c6feeb21fd4ae8ec65dd2e654a9f45f6716d7574d9",
+            "data.acd": "88012ea50b8e78df0921781f631163d03b8962ace77c19e74166f0b901c3cfaa"
+          }
+        }
+      ],
+      "tracks": [],
+      "apps": [],
+      "skinpacks": [
+        {
+          "id": "skinpack_1bam0glp3",
+          "name": "Skin Pack v1",
+          "url": "https://drive.google.com/file/d/1pOnZIP4ENR03gYJhoMLyQawb1NKPjQtm/view?usp=sharing",
+          "checksums": {}
+        }
+      ]
     }
   ]
 }
