@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
   "notes": "Actualización automática a la versión 1.0.0",
-  "pub_date": "2026-09-02T04:55:37.499Z",
+  "pub_date": "2026-09-02T05:04:53.999Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUk1TVXpJcFU5K1IycndSUU5mVGptemRPK0dhSVJaMGxGYm5ULzltWGRCR0hzR0krUVhjc1l3MFhnY01LNk1adXR5TUdTblgrVDZmZi9NOFFGVHBpRC92YmMrVW9iQ3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzI0OTMyCWZpbGU6U1JMIEhVQl8xLjAuMF94NjQtc2V0dXAuZXhlCkduVG1BQ0tXZEpQRzZ1bU1hcjVEUFN4MVdsd0xaVTFycjR5Y3JHRTIvVThNdEhIUGJCcmF3bkdSenNicHdHd3J4WEVpOTBZekpKU3l0Ry9zTERlVUJRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUk1TVXpJcFU5K1ZXTDQ0Lzg3Q0ordHY1L0VsWWJORFN5ZUtZMkEzdW1ZVlVqNldreitLdVd3MHJ0QjU0dUVaK0IyU0RyZVhua0NETDBFaXl3TkZlU2RwMkZoZnhZT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzI1NDg5CWZpbGU6U1JMIEhVQl8xLjAuMF94NjQtc2V0dXAuZXhlCjBmQ2JLbUlTcjYrUERHSDdjSWtlbXU2Q3NITG41MG1qTldnbFY1ZVVlU3BnV25NV0lIL0lGY1p1TGw2ZVhxcFV4eDZiQm5Jc3VkUEkycDloODd1ZkFBPT0K",
       "url": "https://raw.githubusercontent.com/not-frosh/FSH-SRLHUB/main/build/builds/SRL%20HUB_1.0.0_x64-setup.exe"
     }
   }
