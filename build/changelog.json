@@ -2,6 +2,13 @@
   "versions": [
     {
       "version": "1.1.0",
+      "date": "2026-09-03T05:06:38.206Z",
+      "changes": [
+        "Actualización a la versión 1.1.0"
+      ]
+    },
+    {
+      "version": "1.1.0",
       "date": "2026-09-03T04:26:10.762Z",
       "changes": [
         "Se añadio soporte para el CSP:",
