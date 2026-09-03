@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.1.0",
+      "date": "2026-09-03T04:26:10.762Z",
+      "changes": [
+        "Se añadio soporte para el CSP:",
+        "-Se puede acceder al CSP e instalar directo",
+        "-El centro de descargas tambien contiene el soporte para CSP",
+        "Bug Arreglado de archivos residuales que dejaban demasiado peso extra",
+        "Bug arreglado de errores de instalacion",
+        "Soporte para Temas personalizados y fondos segun lo que prefiera el usuario"
+      ]
+    }
+  ]
+}
