@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "1.1.3",
+      "date": "2026-09-07T23:30:40.965Z",
+      "changes": [
+        "Soporte para windows 10 añadido",
+        "Soporte para eventos añadido"
+      ]
+    },
+    {
       "version": "1.1.0",
       "date": "2026-09-03T04:26:10.762Z",
       "changes": [
