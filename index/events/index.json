@@ -101,7 +101,18 @@
           ]
         }
       ],
-      "tracks": [],
+      "tracks": [
+        {
+          "id": "monza",
+          "name": "Monza F1 2024 extension",
+          "url": "https://drive.google.com/file/d/1M2AQcnYHqOTzJ8UnT83PhV1bcUE8SSVa/view",
+          "checksums": {
+            "models_monza_f1_2024.ini": "d23b3a0ca34eb9db29f7f22f3711d5b19f19d05e4493cbbd24a4064e13bcad6c"
+          },
+          "isPack": false,
+          "packCars": null
+        }
+      ],
       "apps": [],
       "skinpacks": []
     }
