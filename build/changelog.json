@@ -1,33 +1,5 @@
 {
   "versions": [
-    {
-      "version": "1.1.5",
-      "date": "2026-09-08T04:01:12.755Z",
-      "changes": [
-        "Actualización a la versión 1.1.5"
-      ]
-    },
-    {
-      "version": "1.1.4",
-      "date": "2026-09-08T01:12:20.387Z",
-      "changes": [
-        "Actualización a la versión 1.1.4"
-      ]
-    },
-    {
-      "version": "1.1.4",
-      "date": "2026-09-07T23:49:46.774Z",
-      "changes": [
-        "Actualización a la versión 1.1.4"
-      ]
-    },
-    {
-      "version": "1.1.3",
-      "date": "2026-09-07T23:30:40.965Z",
-      "changes": [
-        "Soporte para windows 10 añadido",
-        "Soporte para eventos añadido"
-      ]
     },
     {
       "version": "1.1.0",
