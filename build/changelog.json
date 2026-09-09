@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "version": "1.1.6",
+      "date": "2026-09-09T20:09:17.096Z",
+      "changes": [
+        "Version De Pruebas para Arreglo de BUGS"
+      ]
+    },
+    {
       "version": "1.1.0",
       "date": "2026-09-03T04:26:10.762Z",
       "changes": [
