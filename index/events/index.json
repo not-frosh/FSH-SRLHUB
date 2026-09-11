@@ -99,6 +99,31 @@
             "cim_2012_tororosso",
             "cim_2012_williams"
           ]
+        },
+        {
+          "id": "rss_formula_2013",
+          "name": "RSS F1 2013",
+          "url": "https://drive.google.com/file/d/1wiTOFYIlkP4lMkMk3yYpczBC8Ybu2_Qk/view?usp=drive_link",
+          "checksums": {
+            "collider.kn5": "240be5b2bb7a19b82c4f45ce2b385e4d0087a30a45d57526af1bb9c9e69748fe",
+            "content_manager.kn5": "72d153fb4e6ba898db8787c9cb554026776afbfe4b4e90ab5400781aaa4a1de5",
+            "extension/S_Blur.dds": "1824063c4de33d301e48b78e32c37ce1be18994b14a5707d34a6bf0b4b5a001d",
+            "extension/H.dds": "7542906c539fc12be09b9712bf7e54156f51669d572afe7efa81fb585bb96d9a",
+            "formula_2013_v8_LOD_C.kn5": "6cc5745478d34b2e516e8426a6315d40a2ca55563a756c8d7ab1c06b56d15821",
+            "extension/SS.dds": "6041aa459122a1d951adf503e72a395792162e6d63e7f7527462ff1b06a73b28",
+            "formula_2013_v8.kn5": "60f6b8eb6f1860b1d9b82a17bbac6fd9fddfa88dc6acf34c4a5f42668552aef7",
+            "extension/H_BLUR.dds": "93c325288f6e3a02ff7d0e4e94734b216ac3283ac270d37c61ed4f7421506e24",
+            "extension/M_Blur.dds": "63423f6efbdc48b745a7e3ad66f3d52e7a3773c304b083061c447bff44489e90",
+            "extension/M.dds": "2fce1c98bd4edeecdd415a0f589a57a4a56cbaddb02f0c02a7f12c7c6ce5a85e",
+            "extension/S.dds": "0994102fdd8531e36996d6cacd03cf3a97c800a702a6016e8082d814da6f591c",
+            "data.acd": "70e3d141827d8abda8760ce345f1e52ceead453f86e49b43c2da5f239d5269c7",
+            "extension/ext_config.ini": "0c4cbec782718349980623077875bcaed106ffaf32e5aac4ebbd8802cba545ac",
+            "formula_2013_v8_LOD_B.kn5": "6aa8a508668a570f6b661b5f2bf16405526b63dac0451495b4ca241169559d9e",
+            "extension/SS_Blur.dds": "eedfa936750ea785b73676b287f7b853c00c95806f017d7d6a08097e6f8e0e23",
+            "formula_2013_v8_LOD_D.kn5": "028f2c11c1858364b810d5125c01a809c37d4a4621bc8fb1ba421114c83ea972"
+          },
+          "isPack": false,
+          "packCars": null
         }
       ],
       "tracks": [
