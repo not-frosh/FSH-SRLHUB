@@ -514,6 +514,34 @@
       "tracks": [],
       "apps": [],
       "skinpacks": []
+    },
+    {
+      "id": "4",
+      "name": "Mazda MX5 World Series",
+      "version": "1.0.0",
+      "is_active": true,
+      "cars": [
+        {
+          "id": "SRL_mx5_cup",
+          "name": "Mazda MX5",
+          "url": "https://drive.google.com/file/d/1vc7X-UeNvZ4-SKV5tpWNaPKePdpunCRW/view?usp=sharing",
+          "checksums": {
+            "ks_mazda_mx5_cup_pwc_b.kn5": "6cff755713b0acadac41896c1d55d000305d6131bcf593e4ed52ef6fea966509",
+            "ks_mazda_mx5_cup_pwc_d.kn5": "4b4ad8a5dda6c423de47df14c55c6fe550e0c43044dcd35b115f287da9b11afa",
+            "ks_mazda_mx5_cup_pwc.kn5": "db8db2f4ea87683bd158c5fe5ddf86c76757dcd9a0aabfef3b8c3b1385e52d82",
+            "extension/ext_config.ini": "ac18f8c85a92652e3d7d70d2c17d43fe1040a1058b2ce64f19c04f3c5196e5be",
+            "extension/dashboard.ini": "6d2356e24ce78d85312dde525eba1312db06098a0885b4e2c20907e41f00e0ac",
+            "collider.kn5": "e6df6058dd665f9f0011372a2b0c7f65559bd0afe665c60f05981456fa990a58",
+            "data.acd": "34faa58a10858337387691e3741111ebb382102640a2313828bc660dd3fb2e8d",
+            "ks_mazda_mx5_cup_pwc_c.kn5": "9c60562a6d972d350281cd0a8493871f770d2127004b08e24044a4a021fc94f1"
+          },
+          "isPack": false,
+          "packCars": null
+        }
+      ],
+      "tracks": [],
+      "apps": [],
+      "skinpacks": []
     }
   ]
 }
